@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ColorsApp</string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+    <string name="green">green</string>
+    <string name="black">black</string>
+    <string name="white">white</string>
+    <string name="yellow">yellow</string>
+    <string name="brown">brown</string>
+    <string name="semiTrasnsparent">semiTrasnsparente</string>
+    <string name="Trasnsparent">Trasnsparente</string>
+    <string name="Magenta">Magenta</string>
+    <string name="Cyan">Cyan</string>
+    <string name="about">About of..</string>
+</resources>
